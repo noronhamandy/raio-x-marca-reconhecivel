@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Para citar esta skill, use os metadados abaixo."
+type: software
+title: "Raio-x da marca reconhecível: skill para Claude"
+version: "1.1.0"
+date-released: "2026-11-04"
+license: CC-BY-NC-SA-4.0
+authors:
+  - family-names: "Noronha"
+    given-names: "Amanda"
+    orcid: "https://orcid.org/0009-0003-5435-0591"
+    affiliation: "Amanda Noronha Consultoria"
+repository-code: "https://github.com/noronhamandy/raio-x-marca-reconhecivel"
+url: "https://amandanoronha.com.br/ferramentas/raio-x-da-marca-reconhecivel/"
+abstract: >-
+  Skill para Claude que executa o Raio-x da marca reconhecível, metodologia
+  1.1.0: 92 verificações em sete sintomas, organizadas pelas cinco camadas da
+  Arquitetura Cognitiva do SEO, com nota de 0 a 35, cobertura e
+  confiabilidade, e entrega de relatório em PDF, planilha e JSON.
+keywords:
+  - raio-x da marca reconhecível
+  - Arquitetura Cognitiva do SEO
+  - memória de marca
+  - busca generativa
+  - GEO
+  - SEO
+  - auditoria de marca
+  - skill para Claude
+references:
+  - type: conference-paper
+    title: "A ciência de quem a IA recomenda primeiro: o orçamento da verificação e como medir se a sua marca é escolhida quando o usuário para de checar"
+    authors:
+      - family-names: "Noronha"
+        given-names: "Amanda"
+    conference:
+      name: "SEO Summit 2026"
+      city: "São Paulo"
+      date-start: "2026-11-05"
+    doi: "10.5281/zenodo.24062557"

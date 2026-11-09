@@ -1,0 +1,39 @@
+{
+  "title": "Raio-x da marca reconhecível: skill para Claude",
+  "upload_type": "software",
+  "version": "1.1.0",
+  "publication_date": "2026-11-04",
+  "language": "por",
+  "license": "cc-by-nc-sa-4.0",
+  "creators": [
+    {
+      "name": "Noronha, Amanda",
+      "affiliation": "Amanda Noronha Consultoria",
+      "orcid": "0009-0003-5435-0591"
+    }
+  ],
+  "description": "<p>Skill para Claude que executa o Raio-x da marca reconhecível, método de Amanda Noronha para medir se uma marca é encontrada, entendida e escolhida em busca tradicional e em respostas de sistemas de IA.</p><p>A metodologia 1.1.0, aprovada em 4 de novembro de 2026, audita um domínio em 92 verificações, agrupadas em sete sintomas e organizadas pelas cinco camadas da Arquitetura Cognitiva do SEO: Rastreabilidade, Estrutura, Interpretação, Memória e Ação. Cada verificação registra a evidência coletada, e o que depende de acesso que a sessão não tem fica como não avaliado. A nota vai de 0 a 35, com cobertura e confiabilidade, e a skill entrega relatório em PDF, planilha e JSON.</p><p>A versão anterior do método, com 80 verificações em seis sintomas e nota de 0 a 30, é a apresentada nos slides da palestra no SEO Summit 2026 (DOI 10.5281/zenodo.24062557).</p><p>Uso comercial depende de autorização da autora.</p>",
+  "keywords": [
+    "raio-x da marca reconhecível",
+    "Arquitetura Cognitiva do SEO",
+    "memória de marca",
+    "busca generativa",
+    "GEO",
+    "SEO",
+    "auditoria de marca",
+    "skill para Claude"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24062557",
+      "relation": "isDescribedBy",
+      "scheme": "doi",
+      "resource_type": "presentation"
+    },
+    {
+      "identifier": "https://amandanoronha.com.br/ferramentas/raio-x-da-marca-reconhecivel/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}
